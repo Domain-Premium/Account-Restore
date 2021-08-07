@@ -1,0 +1,101 @@
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the main branch
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v2
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
+ Dear Naziran,
+
+The following domains have been added to your Epik account:
+
+prepare.com
+definite.com
+mycology.com
+usmle.com
+concise.com
+realworld.com
+highyield.com
+enhances.com
+onelook.com
+relevant.com
+simpletest.com
+summaries.com
+important.com
+needtoknow.com
+aspect.com
+mypearls.com
+basicneed.com
+figures.com
+scabies.com
+mites.com
+lice.com
+nits.com
+spiderbites.com
+colorimage.com
+labtest.com
+electron.com
+protozoan.com
+micrographs.com
+Dear Naziran,
+
+The following domains have been added to your Epik account:
+
+basicmax.com
+bee.com
+berita.info
+billsplits.com
+biodeck.com
+black.space
+bladebike.com
+bluespectrum.com
+bmwnetwork.com
+bobsled.com
+boo.com
+branchmaster.com
+brickout.com
+bring.com
+butang.com
+buycomputer.com
+callpro.com
+centremotor.com
+cerna.com
+cgi.com
+chargingstate.com
+checkgrow.com
+checkright.com
+chesterfield.com
+cromebook.com
+clarrise.com
+clipclosure.com
+cloudalpha.com
+cloudmaker.com
